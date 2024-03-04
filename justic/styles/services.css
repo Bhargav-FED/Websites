@@ -1,0 +1,138 @@
+#services-container {
+    background-color: rgb(55,55,63);
+    color: #fff;
+}
+#services {
+    display: flex;
+    padding: 120px 80px;
+}
+.services {
+    margin: 0px 10px;
+    padding: 20px;
+    width: 45%;
+    background-color: #fff;
+    color: #000;
+}
+#service-contain {
+    display: flex;
+    padding: 40px 80px;
+}
+.service {
+    margin: 0px 10px;
+    padding: 20px;
+    width: 45%;
+    background-color: #fff;
+    color: #000;
+}
+#icon-container{
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+#arrow {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+#pin {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+#elephant {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+
+#chess {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+
+#carrom {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+
+#right {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+
+#left {
+    background-color:rgb(180,156,115);
+    color: #fff;
+    width: 10%;
+    text-align: center;
+    border-radius:50%;
+    padding: 15px; 
+}
+.services-title {
+color:rgb(180,156,115);
+}
+.services-discription {
+    font-size: 13px;
+    color: #000;
+    line-height: 25px;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+#call-us-now {
+    margin: 80px;
+    background-image: url(../assets/hero_bg.jpg.webp);
+    background-position: top left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 80px;
+    text-align: center ;
+    background-color: rgb(55,55,63);
+}
+#call-us-now button{
+    background-color: rgb(185,163,125);
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 40px;
+    text-align: center;
+    border: #000;
+}
+#list-container {
+    display: flex;
+    background-color: rgb(55,55,63);
+    justify-content: space-around;
+    padding: 60px 80px;
+    margin: 30px 40px;
+}
+#list-container li {
+    color:  rgb(180,156,115);
+    list-style: none;
+    line-height: 35px;
+}
+#list-container h3{
+    color: #fff;
+    margin-top: 55px;
+}

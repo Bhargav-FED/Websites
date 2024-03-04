@@ -317,11 +317,9 @@ input{
     margin:5px;
 }
 
-/****map***/
 #map{
     background:url("images/map.jpg")no-repeat center center/cover;
 }
-/***footer***/
 .footer{
     width:100vw;
     height:30vh;

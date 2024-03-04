@@ -1,0 +1,31 @@
+#question-container {
+    background-color: rgb(55,55,63);
+    padding: 10px;
+}
+#answer {
+    display: flex;
+}
+#answer p{
+    color: #fff;
+}
+#question span{
+    color: rgb(180,156,115);
+}
+#question h1{
+    color: #fff;
+}
+#list-container {
+    display: flex;
+    background-color: rgb(55,55,63);
+    justify-content: space-around;
+    padding: 80px 100px;
+}
+#list-container li {
+    color:  rgb(180,156,115);
+    list-style: none;
+    line-height: 35px;
+}
+#list-container h3{
+    color: #fff;
+    margin-top: 55px;
+}

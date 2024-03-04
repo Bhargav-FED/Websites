@@ -1,0 +1,46 @@
+#name-container {
+    background-color: rgb(55,55,63);
+    padding: 150px;
+}
+#name {
+    display: flex;
+    justify-content: space-around;
+    line-height: 10px;
+    margin-right: 40px;
+    
+}
+#address {
+    display: flex;
+    justify-content: space-around;
+    line-height: 120px;
+}
+#sms {
+    margin-left: 230px;
+    line-height: 110px;
+}
+
+button {
+    background-color: rgb(185,163,125);
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 40px;
+    text-align: center;
+    border: #000;
+    margin: 25px;
+    margin-left: 225px;
+}
+#list-container {
+    display: flex;
+    background-color: rgb(55,55,63);
+    justify-content: space-around;
+    padding: 80px 100px;
+}
+#list-container li {
+    color:  rgb(180,156,115);
+    list-style: none;
+    line-height: 35px;
+}
+#list-container h3{
+    color: #fff;
+    margin-top: 55px;
+}
