@@ -3,11 +3,10 @@
     padding:0;
     font-family:Verdana, Tahoma, sans-serif;
 }
-/**************************************homepage********************************************************/
 .homepage{
     background:url("images/background.jpg") no-repeat center center/cover;
 }
-/**navbar**/
+
 .navbar{
 height:50px;
 background-color:black;
@@ -27,7 +26,7 @@ a:hover{
     background-color:lightgrey;
 }
 
-/***dropdown***/
+
 .dropdown-content{
   display:none;
   position:absolute;
@@ -48,12 +47,12 @@ a:hover{
     background-color:lightgrey;
     color:white;
 }
-/**dropdown effect***/
+
 .dropdown:hover .dropdown-content{
     display:block;
 }
 
-/*search bar*/
+
 .search{
         color: white;
         float: right;
@@ -62,7 +61,7 @@ a:hover{
         margin-right: 10px;      
 }
 
-/**homepage description**/
+
 .homepage-description{
 color:white;
 width:100vw;
@@ -82,7 +81,7 @@ text-align:center;
   
 }
 
-/**************Band**********************/
+
 .band{
     width:100vw;
     height:70vh;
@@ -115,12 +114,11 @@ justify-content:space-around;
     font-weight:normal;
 }
 
-/************************************Tour******************/
 .tour{
     background-color:rgb(24, 22, 22);
 }
 
-/*****tour details***/
+
 .tour-heading{
     color:white;
     margin-top:30px;
@@ -155,7 +153,7 @@ justify-content:space-around;
     color:grey;
 }
 
-/****image cards***/
+
 .tour-img-container{
     display:flex;
     justify-content:space-between;
@@ -188,7 +186,7 @@ justify-content:space-around;
         margin-bottom:20px
     }
 
-/*****Modal***********/
+
 #modal{
     display:none;
     width:900px;
@@ -254,7 +252,7 @@ justify-content:space-around;
     color:white;
     background-color:red;
 }
-/*************MULTIPLE TIMES USED CLASSES**********************/
+
 
 .heading{
     font-size:30px;
@@ -286,7 +284,7 @@ justify-content:space-around;
     border:none;
 }
 
-/***CONTACT**/
+
 .contact{
     width:100vw;
     height:50vh;
