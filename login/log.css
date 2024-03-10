@@ -50,3 +50,40 @@ body {
     transform: translateY(-50%);
     cursor: pointer;
 }
+ #new button {
+    background-color: rgb(255,216,20);
+    border-radius: 15px;
+    width: 300px;
+    height: 30px;
+    border-style: none;
+}
+h5 {
+    font-style: normal;
+    font-weight: lighter;
+}
+ h5 span {
+    color: blue;
+}
+h4 {
+    color: blue;
+    text-align: left;
+    font-size: 12px;
+    font-weight: lighter;
+}
+span {
+    color: blue;
+    text-align: left;
+    font-size: 12px;
+    font-weight: lighter;
+}
+p {
+    font-weight: bold;
+    font-size: 12px;
+}
+#foot {
+    text-align: start;
+    line-height: 20px;
+}
+.new {
+    border-style: none;
+}
