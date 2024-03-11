@@ -6,9 +6,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f402;
-    width: fit-content;
 }
-header {
+header h1{
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    font-family: cursive;
+    color: cornflowerblue;
 
 }
 nav {
@@ -16,6 +20,7 @@ nav {
     color: aliceblue;
     text-align: center;
     padding: 0.5em;
+    justify-content: space-evenly;
 }
 
 nav a {
