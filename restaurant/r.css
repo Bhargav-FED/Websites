@@ -1,0 +1,55 @@
+
+
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f402;
+    width: fit-content;
+}
+header {
+
+}
+nav {
+    background-color:black;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
+}
+
+nav a {
+    color: white;
+    text-decoration: solid;
+    padding: 1em;
+    margin: 0 0.5em;
+    position: sticky;
+}
+
+section {
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0px;
+    width: 100%;
+}
+#menu {  
+    background-color: black;
+}
+ul {
+    color: goldenrod;
+}
+#menu h2 {
+    color: goldenrod;
+}
+#main {
+    justify-content: center;
+}
+#home {
+    background-color: rgb(255, 253, 208);
+}
