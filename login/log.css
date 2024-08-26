@@ -113,3 +113,7 @@ p {
     width: 120px;
     border-top: 1px solid #e7e7e7;
 }
+.new:hover{
+    background-color: #333;
+    
+}
