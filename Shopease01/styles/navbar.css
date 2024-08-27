@@ -47,10 +47,10 @@ body {
     margin-left: 770px;
  }
 
- ul{
+ /* ul{
     display: flex;
     justify-content: space-between;
- }
+ } */
  h4{
     text-align: center;
     font-size: 10px;
