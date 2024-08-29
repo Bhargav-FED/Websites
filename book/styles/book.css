@@ -63,7 +63,7 @@ p{
 }
 h2{
     margin-left: 370px;
-    margin-bottom: -15px;
+    margin-bottom: -10px;
     font-family: monospace;
 }
 .big{
@@ -79,5 +79,20 @@ h2{
 }
 .box2{
     margin-left: 530px;
-    margin-top: -200px;
+    margin-top: -130px;
+}
+.box3{
+    margin-left: 530px;
+    margin-top: -130px;
+}
+.adv{
+    width: 460px;
+    margin-left: 150px;
+    display: flex;
+    margin-top: 190px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: hsl(269, 90%, 77%);
+    position: relative;
 }
