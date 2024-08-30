@@ -48,6 +48,7 @@ h1{
 .pixel{
     display: inline;
     margin-left: 250px;
+    box-shadow: 10px 10px 10px rebeccapurple;
 }
 .friends{
     width: 460px;
@@ -59,6 +60,7 @@ h1{
     border-radius: 30px;
     background-color: skyblue;
     position: absolute;
+    box-shadow: 10px 10px 10px rebeccapurple;
     
 }
 p{
@@ -81,6 +83,7 @@ h2{
      border-radius: 30px;
      background-color: #4da0a0;
      position: relative;
+     box-shadow: 10px 10px 10px rebeccapurple;
 }
 .box2{
     margin-left: 530px;
@@ -90,6 +93,7 @@ h2{
     margin-left: 530px;
     margin-top: -130px;
 }
+
 .adv{
     width: 460px;
     margin-left: 150px;
@@ -100,6 +104,19 @@ h2{
     border-radius: 30px;
     background-color: #f7cd96;
     position: relative;
+    box-shadow: 10px 10px 10px rebeccapurple;
+}
+
+.war{
+    display: flex;
+    box-shadow: 5px 5px 5px 5px rebeccapurple;
+   
+    
+}
+#wo{ 
+    margin: 40px 0 60px 200px;
+    font-style: italic;
+    font-size: 400%;
 }
 footer{
     display: flex;
@@ -115,4 +132,22 @@ footer a{
     margin-left: 150px;
     gap: 5px;
     color: cyan;
+}
+.pd{
+    writing-mode: vertical-rl;
+    margin-left: 90%;
+    margin-top: -210px;
+}
+.c{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 131px;
+    box-shadow: 5px 5px 5px 5px rebeccapurple;
+}
+.fr{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 55px;
+    text-shadow: salmon 2px;
+
 }
