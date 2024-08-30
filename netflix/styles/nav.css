@@ -48,3 +48,7 @@ footer{
     font-size: 70px;
     background-color: aliceblue;
 }
+.icon{
+    display: flex;
+    justify-content: center;
+}
